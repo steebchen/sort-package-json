@@ -96,6 +96,7 @@ function sortPackageJson(packageJson) {
     'scripts',
     'config',
     'pre-commit',
+    'pre-push',
     'browser',
     'browserify',
     'babel',
