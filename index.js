@@ -92,6 +92,7 @@ function sortPackageJson(packageJson) {
     'ports',
     'devPorts',
     'workers',
+    'devWorkers',
     'scripts',
     'config',
     'pre-commit',

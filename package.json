@@ -1,6 +1,6 @@
 {
   "name": "@steebchen/sort-package-json",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Sort an Object or package.json based on the well-known package.json keys",
   "keywords": [
     "keys",
